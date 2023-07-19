@@ -1,0 +1,19 @@
+.main{
+    width: 900px;
+}
+
+.mainbox{
+    position: relative;
+    box-sizing: border-box;
+    height: 200px;
+    width: 900px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+.boxinside{
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+}
